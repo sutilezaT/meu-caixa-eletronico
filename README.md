@@ -1,4 +1,4 @@
-# meu-caixa-eletronico
+# menu-caixa-eletronico
 
 Exercício para prática de switch. 
 
